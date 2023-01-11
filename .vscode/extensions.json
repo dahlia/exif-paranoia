@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "rust-lang.rust-analyzer",
+    "macabeus.vscode-fluent",
+    "dioxuslabs.dioxus"
+  ]
+}
